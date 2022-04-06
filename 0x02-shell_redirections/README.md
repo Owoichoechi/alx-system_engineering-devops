@@ -1,1 +1,1 @@
-My 0x02-shell_redirections Readme file
+Project on shell I/O Redirections and filters
